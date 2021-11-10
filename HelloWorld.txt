@@ -1,1 +1,2 @@
 Hello world! new new
+Line from user 2.
